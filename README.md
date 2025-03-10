@@ -17,7 +17,15 @@ The dataset used in this project is from [Kaggle](https://www.kaggle.com/dataset
 - **💧 `Turbidity`**: Turbidity of the water
 - **🚰 `Potability`**: Target variable; indicates water potability with values 1 (potable) and 0 (not potable).
 
-## 📚 Libraries Used
+## 🚀 Features
+
+- Comprehensive data analysis and visualization
+- Distribution analysis of categorical variables
+- Correlation analysis between numerical variables
+- Deep learning based prediction model
+- Model performance evaluation and visualization
+
+## 📦 Libraries Used
 - 📊 `numpy`
 - 🐼 `pandas`
 - 📈 `seaborn`
