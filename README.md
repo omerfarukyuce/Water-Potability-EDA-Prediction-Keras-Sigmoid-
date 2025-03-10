@@ -1,10 +1,10 @@
-# 🌊 Water Quality and Potability Analysis
+# 🚰Water Potability EDA & Prediction (Keras Sigmoid)
 
 ## 📜 Overview
 This project focuses on analyzing water quality data to predict the potability of water. The dataset contains various physicochemical properties of water samples and is used to build a deep learning model for classification.
 
 ## 📊 Dataset
-The dataset used in this project is from [Kaggle](https://www.kaggle.com/datasets/). It contains the following features:
+The dataset used in this project is from [Kaggle](https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability). It contains the following features:
 
 - **💧 `ph`**: pH level of the water
 - **💧 `Hardness`**: Hardness of the water
