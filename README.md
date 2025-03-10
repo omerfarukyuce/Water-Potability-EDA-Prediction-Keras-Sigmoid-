@@ -1,6 +1,6 @@
 # 🚰Water Potability EDA & Prediction (Keras Sigmoid)
 
-## 📜 Overview
+## 📊 About the Project
 This project focuses on analyzing water quality data to predict the potability of water. The dataset contains various physicochemical properties of water samples and is used to build a deep learning model for classification.
 
 ## 📊 Dataset
@@ -18,12 +18,12 @@ The dataset used in this project is from [Kaggle](https://www.kaggle.com/dataset
 - **🚰 `Potability`**: Target variable; indicates water potability with values 1 (potable) and 0 (not potable).
 
 ## 📚 Libraries Used
-- `numpy`
-- `pandas`
-- `seaborn`
-- `matplotlib`
-- `scikit-learn`
-- `tensorflow`
+- 📊 `numpy`
+- 🐼 `pandas`
+- 📈 `seaborn`
+- 📊 `matplotlib`
+- 🤖 `scikit-learn`
+- 🤖 `tensorflow`
 
 🛠️ Usage
 Load the dataset:
