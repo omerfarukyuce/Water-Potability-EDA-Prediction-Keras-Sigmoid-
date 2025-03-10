@@ -7,15 +7,15 @@ This project focuses on analyzing water quality data to predict the potability o
 The dataset used in this project is from [Kaggle](https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability). It contains the following features:
 
 - **💧 `ph`**: pH level of the water
-- **💧 `Hardness`**: Hardness of the water
-- **💧 `Solids`**: Total dissolved solids
-- **💧 `Chloramines`**: Chloramine concentration
+- **💧 `Hardness`**: Water hardness, a measure of mineral content
+- **💧 `Solids`**: Total dissolved solids in the water
+- **💧 `Chloramines`**: Chloramines concentration in the water
 - **💧 `Sulfate`**: Sulfate concentration
-- **💧 `Conductivity`**: Conductivity of the water
+- **💧 `Conductivity`**:  Electrical conductivity of the water
 - **💧 `Organic_carbon`**: Organic carbon content
 - **💧 `Trihalomethanes`**: Trihalomethanes concentration
 - **💧 `Turbidity`**: Turbidity of the water
-- **🚰 `Potability`**: Target variable (0 = Not Potable, 1 = Potable)
+- **🚰 `Potability`**: Target variable; indicates water potability with values 1 (potable) and 0 (not potable).
 
 ## 📚 Libraries Used
 - `numpy`
