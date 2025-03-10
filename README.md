@@ -55,4 +55,13 @@ The model achieved an accuracy of XX.XX% on the test set. The confusion matrix a
 This project demonstrates the application of deep learning techniques to predict water potability based on physicochemical properties. Future work could involve exploring different models and hyperparameter tuning to improve accuracy.
 
 ## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the [MIT](LICENSE) License.
+
+## 🔍 Code And Kaggle Link
+Project: [water-potability-eda-prediction-keras-sigmoid.ipynb](https://github.com/omerfarukyuce/Water-Potability-EDA-Prediction-Keras-Sigmoid-/blob/main/water-potability-eda-prediction-keras-sigmoid.ipynb)
+
+Kaggle: [🚰Water Potability EDA&Prediction (Keras Sigmoid)](https://www.kaggle.com/code/merfarukyce/water-potability-eda-prediction-keras-sigmoid)
+
+## 📊 Datasets
+Dataset: [Dataset](https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability/data)
